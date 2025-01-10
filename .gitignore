@@ -1,0 +1,13 @@
+# Virtual environment
+myenv/
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Vercel deployment
+.vercel/
+
+# Environment variables
+.env
